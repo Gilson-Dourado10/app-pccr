@@ -1,17 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  ensino_fundamental: MyString
-  ensino_medio: MyString
-  ensino_superior: MyString
-  pos_graduacao: MyString
-  mestrado: MyString
-  doutorado: MyString
+  username: MyString
+  password: MyString
+  Whatsapp: 1
 
 two:
-  ensino_fundamental: MyString
-  ensino_medio: MyString
-  ensino_superior: MyString
-  pos_graduacao: MyString
-  mestrado: MyString
-  doutorado: MyString
+  username: MyString
+  password: MyString
+  Whatsapp: 1
